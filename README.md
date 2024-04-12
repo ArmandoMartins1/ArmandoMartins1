@@ -1,7 +1,7 @@
 <img align="center" padding="0" weight="1000" height="300" alt="Imagem de capa contendo um lago semi congelado com montanhas ao fundo" src="https://i.pinimg.com/originals/5d/59/46/5d5946f30bfb9c5c3ffb8bf745ddb544.jpg">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=1000&lines=Bem+vindo+ao+meu+portfolio!+%EF%BC%BC%EF%BC%88%EF%BC%BE+%EF%BC%BE%EF%BC%89%EF%BC%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF8686&center=true&vCenter=true&random=true&width=1000&lines=Bem+vindo+ao+meu+portfolio!+%EF%BC%BC%EF%BC%88%EF%BC%BE+%EF%BC%BE%EF%BC%89%EF%BC%8F)](https://git.io/typing-svg)
 ### Eae pessoal, me chamo Armando Alves, tudo certinho com vocês? espero que sim. Sou de Recife-PE. Fiquem a vontade para bisbilhotar.
 
 ### No momento, estou cursando 1° período em Análise e Desenvolvimento de Sistemas na Instituição Federal de Pernambuco. 
