@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF8686&center=true&vCenter=true&random=true&width=1000&lines=Bem+vindos+ao+meu+GitHub!+%EF%BC%BC%EF%BC%88%EF%BC%BE+%EF%BC%BE%EF%BC%89%EF%BC%8F)](https://git.io/typing-svg)
 ### Eae pessoal, me chamo Armando Alves, tudo certinho com vocês? espero que sim. Sou de Recife-PE. Fiquem a vontade para bisbilhotar.
 
-### No momento, estou cursando 1° período em Análise e Desenvolvimento de Sistemas na Instituição Federal de Pernambuco. 
+### No momento, estou cursando 2° período em Análise e Desenvolvimento de Sistemas na Instituição Federal de Pernambuco. 
 
 ##  Conhecimentos
 
